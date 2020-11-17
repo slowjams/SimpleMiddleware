@@ -1,0 +1,11 @@
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\bin\Debug\netcoreapp3.1\MiddlewareProject.exe
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\bin\Debug\netcoreapp3.1\MiddlewareProject.deps.json
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\bin\Debug\netcoreapp3.1\MiddlewareProject.runtimeconfig.json
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\bin\Debug\netcoreapp3.1\MiddlewareProject.runtimeconfig.dev.json
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\bin\Debug\netcoreapp3.1\MiddlewareProject.dll
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\bin\Debug\netcoreapp3.1\MiddlewareProject.pdb
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\obj\Debug\netcoreapp3.1\MiddlewareProject.csprojAssemblyReference.cache
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\obj\Debug\netcoreapp3.1\MiddlewareProject.AssemblyInfoInputs.cache
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\obj\Debug\netcoreapp3.1\MiddlewareProject.AssemblyInfo.cs
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\obj\Debug\netcoreapp3.1\MiddlewareProject.dll
+C:\Users\Dong\source\repos\MiddlewareProject\MiddlewareProject\obj\Debug\netcoreapp3.1\MiddlewareProject.pdb
